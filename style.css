@@ -1,0 +1,26 @@
+:root {
+    --main-color: red;
+    --text-color: white;
+}
+
+body {
+    background-color: var(--main-color);
+    color: var(--text-color);
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color: var(--text-color);
+    border-radius: 100px;
+    margin: auto;
+}
+
+.gallery {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
