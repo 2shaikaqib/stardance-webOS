@@ -1,1 +1,2 @@
 # stardance-webOS
+This is my personal webOS inpired by things I lie. This is my first webOS and project created fo Stardance by Hack Club. this just features a lot of thigs I like. (will make this more detailed in the upcoming commits) 
